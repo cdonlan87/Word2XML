@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfMyTupleXMLOfStringString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyTupleXMLOfStringString>
+    <Item1>Name</Item1>
+    <Item2>John Smith</Item2>
+  </MyTupleXMLOfStringString>
+  <MyTupleXMLOfStringString>
+    <Item1>Blood Type</Item1>
+    <Item2>O negative</Item2>
+  </MyTupleXMLOfStringString>
+  <MyTupleXMLOfStringString>
+    <Item1>Blood Pressure</Item1>
+    <Item2>120/70</Item2>
+  </MyTupleXMLOfStringString>
+  <MyTupleXMLOfStringString>
+    <Item1>Heart Rate</Item1>
+    <Item2>70</Item2>
+  </MyTupleXMLOfStringString>
+  <MyTupleXMLOfStringString>
+    <Item1>Temperature</Item1>
+    <Item2>98.2 degrees Fahrenheit</Item2>
+  </MyTupleXMLOfStringString>
+</ArrayOfMyTupleXMLOfStringString>
